@@ -1,5 +1,5 @@
 # DeepDiveIntoNLP
-**This repository is dedicated to exploring various aspects of Natural Language Processing (NLP) through a series of projects. Each assignment focuses on a different area of NLP, providing a deep dive into the subject matter.**
+**This repository is dedicated to exploring various aspects of Natural Language Processing (NLP) through a series of projects. Each project focuses on a different area of NLP, providing a deep dive into the subject matter.**
 
 ## Projects
 
