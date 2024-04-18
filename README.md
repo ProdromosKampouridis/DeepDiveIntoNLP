@@ -3,16 +3,16 @@
 
 ## Projects
 
-### Assignment.1a | Tokenization using NLTK, SpaCy, and BERT
-### Assignment.1b | N-gram Language Models
+### Tokenization using NLTK, SpaCy, and BERT
+### N-gram Language Models
 
-### Assignment.2a | Word Embeddings Similarities & Analogies
-### Assignment.2b | Text Classification using TF-IDF Vectorization
-### Assignment.2c | Text Classification with Neural Networks
+### Word Embeddings Similarities & Analogies
+### Text Classification using TF-IDF Vectorization
+### Text Classification with Neural Networks
 
-### Assignment.3 | Sequence Labeling with Pre-trained Language Models
+### Sequence Labeling with Pre-trained Language Models
 
-### Assignment.4 | Transition-based vs Graph-based Dependency Parser
+### Transition-based vs Graph-based Dependency Parser
 
 
 
